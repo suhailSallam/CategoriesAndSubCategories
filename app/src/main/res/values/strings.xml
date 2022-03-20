@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CategoriesAndSubCategories</string>
+    <string name="company_header">"Write Company name here</string>
+    <string name="category1">Plastics</string>
+    <string name="category2">Parts</string>
+    <string name="category3">Tools</string>
+    <string name="img1_cont_desc">"First Sub Category "</string>
+    <string name="img2_cont_desc">"Second Sub Category "</string>
+    <string name="img3_con_desc">Third Sub Category</string>
+</resources>
